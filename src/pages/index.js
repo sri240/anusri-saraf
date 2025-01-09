@@ -224,18 +224,19 @@ const IndexPage = ({ data }) => (
         <p class="theDesc">
           <i>full-stack developer ~ engineer ~ musician ~ writer ~ leader</i>{" "}
           <br />
-          nineteen year old MIT student from the bay area with a passion for
-          exploration, the pursuit of knowledge, and practically everything else
-          as well
+          twenty year old MIT student from the bay area with a passion for
+          exploration and the pursuit of knowledge; some content here may be
+          outdated as it is an archival website with a previous major update in
+          2018.
           <br />
           my goal is to discover and take advantage of all of the ways i can
           contribute to the world while doing what i love and living in
           contentment.
         </p>
       </span>
-      <span class="mylogo">
+      {/* <span class="mylogo">
         <img src="https://i.imgur.com/jqMdYKY.png"></img>
-      </span>
+      </span> */}
     </span>
 
     <div class="activities">
